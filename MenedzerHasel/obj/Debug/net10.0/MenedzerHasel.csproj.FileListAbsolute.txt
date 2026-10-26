@@ -1,0 +1,14 @@
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/bin/Debug/net10.0/MenedzerHasel
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/bin/Debug/net10.0/MenedzerHasel.deps.json
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/bin/Debug/net10.0/MenedzerHasel.runtimeconfig.json
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/bin/Debug/net10.0/MenedzerHasel.dll
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/bin/Debug/net10.0/MenedzerHasel.pdb
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.GeneratedMSBuildEditorConfig.editorconfig
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.AssemblyInfoInputs.cache
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.AssemblyInfo.cs
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.csproj.CoreCompileInputs.cache
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.dll
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/refint/MenedzerHasel.dll
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.pdb
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/MenedzerHasel.genruntimeconfig.cache
+/home/jurekg/RiderProjects/MenedzerHasel/MenedzerHasel/obj/Debug/net10.0/ref/MenedzerHasel.dll
